@@ -1,0 +1,655 @@
+
+
+movie-this batman begins
+
+Movie Title: Batman Begins
+Release Year: 2005
+IMDB Rating: 8.3
+Production Country: USA, UK
+Language: English, Urdu, Mandarin
+Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
+Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+
+spotify-this-song
+
+Song Name: "Baby Got Back"
+Album Name: "Mack Daddy"
+Artist Name: "Sir Mix-A-Lot"
+Preview URL: "https://p.scdn.co/mp3-preview/b0a018fabd123f76483f1125f05a72f36b230dd8?cid=null"
+
+spotify-this-song Back In Black
+
+Song Name: "Back In Black"
+Album Name: "Back In Black"
+Artist Name: "AC/DC"
+Preview URL: "https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=null"
+
+my-tweets
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+
+
+
+
+
+
+
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+
+
+Song Name: "Baby Got Back"
+Album Name: "Mack Daddy"
+Artist Name: "Sir Mix-A-Lot"
+Preview URL: "https://p.scdn.co/mp3-preview/b0a018fabd123f76483f1125f05a72f36b230dd8?cid=null"
+
+
+
+Song Name: "Hello"
+Album Name: "Hello"
+Artist Name: "Adele"
+Preview URL: "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null"
+
+
+
+Song Name: "Back In Black"
+Album Name: "Back In Black"
+Artist Name: "AC/DC"
+Preview URL: "https://p.scdn.co/mp3-preview/506bc9a0485990973449b0467791e06174371284?cid=null"spotify-this-song
+
+Song Name: "Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]"
+Album Name: "The Iconic Series, Vol. 5"
+Artist Name: "J2"
+Preview URL: "https://p.scdn.co/mp3-preview/1e34f433e141be331c85acf18172fec19ada9f5b?cid=null"
+
+spotify-this-song
+Song Name: "Hello"
+Album Name: "Hello"
+Artist Name: "Adele"
+Preview URL: "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null"
+
+spotify-this-song
+
+Song Name: "Hello"
+Album Name: "Hello"
+Artist Name: "Adele"
+Preview URL: "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null"
+
+movie-this
+
+Movie Title: Batman Begins
+Release Year: 2005
+IMDB Rating: 8.3
+Production Country: USA, UK
+Language: English, Urdu, Mandarin
+Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
+Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+
+movie-this
+
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.9
+Production Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"NaN
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"NaN
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"NaN
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"NaN
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"NaN
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"NaN
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"NaN
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"NaN
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"NaN
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"NaN
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"NaN
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"NaN
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"NaN
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"NaN
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"NaN
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"NaN
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"NaN
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"NaN
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"NaN
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"NaN
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"NaN
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"NaN
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"NaN
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"NaN
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"NaN
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"NaN
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"NaN
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"NaN
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"NaN
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"NaN
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"NaN
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"NaN
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"NaN
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"NaN
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"NaN
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"NaN
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"NaN
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"NaN
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"NaN
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"NaN
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"NaN
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"NaN
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"NaN
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"NaN
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"NaN
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"NaN
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"NaN
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"NaN
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"NaN
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"NaN
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"NaN
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"NaN
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"NaN
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"NaN
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"NaN
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"NaN
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"NaN
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"NaN
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"NaN
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"NaN
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+my-tweets
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+my-tweets
+
+Tweet 1
+"Have a very Grumpy Easter weekend https://t.co/QRcen9OIsd""Sat Apr 15 02:34:37 +0000 2017"
+
+Tweet 2
+"'Wut Stick? I don't remember seeing a stick' https://t.co/aA98RbmIUy""Sat Apr 15 02:33:50 +0000 2017"
+
+Tweet 3
+"'I volunteer for Tribute' https://t.co/csylxMtHxF""Sat Apr 15 02:33:19 +0000 2017"
+
+Tweet 4
+"Pups and trail running https://t.co/13pHr02bNT""Sat Apr 15 02:32:28 +0000 2017"
+
+Tweet 5
+"You go girl! https://t.co/evhCSGpakD""Sat Apr 15 02:31:53 +0000 2017"
+
+Tweet 6
+"Australian Sheppards are so regal! One day I will have one #theaussheppardlife https://t.co/bj5ZBUTSOb""Sat Apr 15 02:28:19 +0000 2017"
+
+Tweet 7
+"Love those markings! What a beautiful dog https://t.co/kelVIm7m0Y""Sat Apr 15 02:27:25 +0000 2017"
+
+Tweet 8
+"Just a pup earning his keep #gooddog https://t.co/wGF3WoCJyT""Sat Apr 15 02:25:42 +0000 2017"
+
+Tweet 9
+"Just a piggo and his flowers #micropig #cute https://t.co/5EBsO0GzWa""Sat Apr 15 02:25:05 +0000 2017"
+
+Tweet 10
+"\"Paint me like one of your French girls\" #thetigerlife https://t.co/7CXhgScU7e""Sat Apr 15 02:24:09 +0000 2017"
+
+Tweet 11
+"'Dogs Only!' No cats allowed #littlefurscals https://t.co/PY4DY403Pf""Sat Apr 15 02:23:35 +0000 2017"
+
+Tweet 12
+"Optimal fox storage method right here #fennecfox https://t.co/jEW5Xfux4d""Sat Apr 15 02:23:02 +0000 2017"
+
+Tweet 13
+"Just a little floof getting groomed and being adorable #flooflife https://t.co/nM5RLr8Cma""Sat Apr 15 02:22:32 +0000 2017"
+
+Tweet 14
+"Intense owl is intense (and majestic) https://t.co/OjeXT1tTJ0""Sat Apr 15 02:18:46 +0000 2017"
+
+Tweet 15
+"Just a Polar Bear living the life #readyforsummer #polarbear https://t.co/c2r7AMYNUU""Sat Apr 15 02:18:01 +0000 2017"
+
+Tweet 16
+"Mini doges!!!! The best #minidoge #doge https://t.co/mHUVp6fhpc""Sat Apr 15 02:13:05 +0000 2017"
+
+Tweet 17
+"Baby foxes are the best! #sleeponcutie https://t.co/q6NZgO9th2""Sat Apr 15 02:12:23 +0000 2017"
+
+Tweet 18
+"Wildflower Super Bloom! Ready for Spring #datpollen https://t.co/XDY1i3ObLO""Sat Apr 15 02:07:44 +0000 2017"
+
+Tweet 19
+"I can haz Dorito too? #cuteanimals #littlebunny https://t.co/7lE4nKOfw6""Thu Apr 13 18:30:07 +0000 2017"
+
+Tweet 20
+"https://t.co/0hvrEN1Q5t\nThis always makes my day better! #workwork #micropig #cute""Thu Apr 13 18:04:11 +0000 2017"
+
+spotify-this-song
+
+Song Name: "Beauty and the Beast"
+Album Name: "La Bella y La Bestia (Banda Sonora Original en Español)"
+Artist Name: "Ariana Grande"
+Preview URL: "https://p.scdn.co/mp3-preview/be5585a2934e7c43536f25fd18cba13b998390d2?cid=null"
+
+movie-this
+
+Movie Title: Beauty and the Beast
+Release Year: 1991
+IMDB Rating: 8.0
+Production Country: USA
+Language: English, French
+Plot: A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.
+Actors: Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury
