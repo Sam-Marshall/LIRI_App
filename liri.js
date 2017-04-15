@@ -1,8 +1,11 @@
 var userInput = process.argv[2];
 var inquirer = require("inquirer");
 var fs = require("fs");
+var command;
+var searchTerm;
 
 inquirer.prompt([{
+
         type: "list",
         name: "LIRIlist",
         message: "Welcome to LIRI! Please choose your path",
@@ -21,8 +24,17 @@ inquirer.prompt([{
     } else if (userInput === 'do-what-it-says') {
         fs.readFile("random.txt", "utf8", function(error, data) {
             var randomFileArray = data.split(',');
-            var command = randomFileArray[0];
-            var searchTerm = randomFileArray[1];
+            command = randomFileArray[0];
+            exports.searchTerm = randomFileArray[1];
+            if (command === 'my-tweets') {
+                var twitter = require('./twitter.js');
+            } else if (command === 'spotify-this-song') {
+                var spotify = require('./spotify.js');
+            } else if (command === 'movie-this') {
+                var omdb = require('./omdb.js');
+            }
         });
+
     }
+
 });
