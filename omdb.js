@@ -1,8 +1,6 @@
-// node liri.js movie-this '<movie name here>'
-
 var request = require('request');
 
-var userInput = process.argv.slice(2).join('+');
+var userInput = process.argv.slice(3).join('+');
 
 if (userInput != '') {
     movieName = userInput;

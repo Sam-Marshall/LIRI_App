@@ -1,9 +1,5 @@
-// node liri.js spotify-this-song '<song name here>'
-// if no song is provided then your program will default to
-// "The Sign" by Ace of Base
-
 var spotify = require('spotify');
-var userInput = process.argv.slice(2).join(' ');
+var userInput = process.argv.slice(3).join(' ');
 var searchTerm;
 var introMessage;
 
